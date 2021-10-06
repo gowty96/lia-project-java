@@ -22,7 +22,7 @@ public class HelloWorldService {
 		logger.debug("getTitle() is executed! $name : {}", name);
 
 		if(StringUtils.isEmpty(name)){
-			return "vCanIT Services, Inc.";
+			return "learningisart, Inc.";
 		}else{
 			return name;
 		}

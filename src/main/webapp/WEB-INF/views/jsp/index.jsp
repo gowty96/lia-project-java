@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>vCanIT Services, Inc.</title>
+<title>learningisart</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -37,7 +37,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To vCanIT Services, Madhapur, Hyderabad.</h2>
+			<h2>Welcome To learningisart, Uthamapalayam, Chennai.</h2>
 			
 		</div>	
 	</div>
@@ -45,7 +45,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; vCanIT Services 2020</p>
+		<p>&copy; learningisart 2021</p>
 	</footer>
 </div>
 
