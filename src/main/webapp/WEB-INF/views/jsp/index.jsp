@@ -37,7 +37,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To learningisart, Uthamapalayam, Chennai.</h2>
+			<h2>Welcome To learningisart, Uthamapalayam and Chennai.</h2>
 			
 		</div>	
 	</div>
