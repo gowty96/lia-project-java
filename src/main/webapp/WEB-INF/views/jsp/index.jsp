@@ -45,7 +45,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; learningisart 2021</p>
+		<p>&copy; learningisart 2022</p>
 	</footer>
 </div>
 
